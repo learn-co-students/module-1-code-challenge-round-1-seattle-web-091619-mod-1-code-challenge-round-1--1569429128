@@ -6,3 +6,4 @@ class Restaurant
   end
 
 end
+ 
